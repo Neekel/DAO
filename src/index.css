@@ -1,11 +1,11 @@
 html,
 body {
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: Festive, Syne Tactile, Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #17c071;
+  color: rgb(26, 17, 17);
   overflow-x: hidden;
 }
 #root {
